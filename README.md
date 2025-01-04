@@ -2,10 +2,7 @@
 
 ## Example of referencing an image that has been uploaded to git.
 
-![F36 F37 Backups](images/02_F3637.jpeg)
-
-images/02 F3637.jpeg
-
+![F36 F37 Backups](images/F3637.jpeg)
 
 ## What should I do if I want to run this game
 
