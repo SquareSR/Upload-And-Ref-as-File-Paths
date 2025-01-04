@@ -1,5 +1,10 @@
 # FAQ Pokémon Red Any% Glitchless & Red Any% Glitchless"Classic" Speedruns
 
+## Example of referencing an image that has been uploaded to git.
+
+![F36 F37 Backups](images/F36F37backups.jpeg)
+
+
 ## What should I do if I want to run this game
 
 Here are the first things you should do:
