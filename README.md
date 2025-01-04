@@ -4,6 +4,9 @@
 
 ![F36 F37 Backups](images/F3637.jpeg)
 
+<img src="images/F3637.jpeg" alt="F36 F37 Backups" width="600" height="400">
+
+
 ## What should I do if I want to run this game
 
 Here are the first things you should do:
